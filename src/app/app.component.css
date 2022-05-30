@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Koulen&display=swap');
+
+h2 {
+    text-align: center;
+    font-family: 'Koulen', cursive;
+}
+
+.bg {
+    background-color: #DF678C;
+}
+
+.screen {
+    height: 100%;
+}
+
+.txt-color {
+    color: #FFF748;
+}
+
+.prefix {
+    color: #9e9e9e;
+}
+
+.mt {
+    margin-top: 50px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.page-footer {
+    background-color: transparent;
+    color: white;
+    text-align: center;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .mt {
+        margin-top: 30px;
+    }
+  }
