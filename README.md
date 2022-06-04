@@ -1,6 +1,12 @@
 # GenderPredict
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
+[Visit Site](https://gender-predictor-v1.netlify.app/)
+
+## Screenshots
+
+![App Screenshot](https://res.cloudinary.com/deejomzni/image/upload/v1654318644/excuse/Screenshot_2022-06-04_at_10-25-47_Gender_Predictor_atac2t.png)
+
 
 ## Development server
 
